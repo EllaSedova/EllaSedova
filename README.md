@@ -33,27 +33,6 @@ I am a 3rd year Informational systems & technologies student in ETU "LETI", Sain
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## My projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EllaSedova&repo=KotBot)](https://github.com/EllaSedova/KotBot)
 
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllaSedova&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=EllaSedova&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
