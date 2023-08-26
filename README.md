@@ -35,4 +35,9 @@ I am a 3rd year Informational systems & technologies student in ETU "LETI", Sain
 
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EllaSedova&repo=kot_telegram_bot)](https://github.com/EllaSedova/kot_telegram_bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EllaSedova&repo=OOP_labs)](https://github.com/EllaSedova/OOP_labs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EllaSedova&repo=Algorithms-and-data-structures)](https://github.com/EllaSedova/Algorithms-and-data-structures)
 
+
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllaSedova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
